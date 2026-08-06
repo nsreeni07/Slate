@@ -8,7 +8,6 @@ Onshape Link(Assembly is in here): https://cad.onshape.com/documents/2fce0d74e6b
 <img width="1305" height="662" alt="Screenshot 2026-08-05 224156" src="https://github.com/user-attachments/assets/b17a7101-bdeb-41ac-9dbf-a1cf454142ed" />
 <img width="842" height="295" alt="Screenshot 2026-08-05 225714" src="https://github.com/user-attachments/assets/85cf358c-1e04-4f9c-9b13-894f8e93931d" />
 <img width="787" height="437" alt="Screenshot 2026-08-05 225729" src="https://github.com/user-attachments/assets/63e08293-317a-4592-b496-4ae9c5c87dfb" />
-
 Part,Quantity,Total Price,Link
 Cas,1,$0,Printing-Legion
 PCB,1,$39,JLCPCB
@@ -17,3 +16,4 @@ Raspberry Pi Pico,1,$3.70,https://www.aliexpress.us/item/3256809657712980.html
 Screw-in Stabilizers,1,$6.00,https://www.aliexpress.us/item/3256807050530252.html
 Keycaps,114,$19.27,https://www.aliexpress.us/item/3256808312477768.html
 Diodes,100,$2.50,https://www.aliexpress.us/item/3256811580628264.html
+
