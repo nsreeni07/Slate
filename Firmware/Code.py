@@ -7,7 +7,6 @@ from kmk.modules.layers import Layers
 keyboard = KMKKeyboard()
 keyboard.modules.append(Layers())
 
-# ===== MATRIX PINS (MATCH YOUR SCHEMATIC) =====
 keyboard.row_pins = (
     board.GP26,
     board.GP27,
@@ -35,7 +34,6 @@ keyboard.col_pins = (
 
 keyboard.diode_orientation = DiodeOrientation.COLUMNS
 
-# ===== KEYMAP =====
 keyboard.keymap = [
     [
         KC.ESC, KC.N1, KC.N2, KC.N3, KC.N4, KC.N5, KC.N6, KC.N7, KC.N8, KC.N9, KC.N0, KC.MINS, KC.EQL, KC.BSPC,
